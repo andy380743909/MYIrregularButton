@@ -2,8 +2,8 @@
 //  MYIrregularButton.h
 //  tableviewswipedelete
 //
-//  Created by xie xu on 12-4-5.
-//  Copyright (c) 2012年 yek. All rights reserved.
+//  Created by panjun cui on 12-4-5.
+//  Copyright (c) 2012年 . All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
